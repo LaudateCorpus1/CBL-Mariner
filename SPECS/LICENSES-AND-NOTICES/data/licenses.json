@@ -115,7 +115,6 @@
                 "socket_wrapper",
                 "sos",
                 "squashfs-tools",
-                "tini",
                 "uclibc-ng",
                 "uid_wrapper",
                 "uuid",
