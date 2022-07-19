@@ -14,10 +14,10 @@ require (
 	github.com/muesli/crunchy v0.3.0
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/rivo/tview v0.0.0-20200219135020-0ba8301b415c
-	github.com/sirupsen/logrus v1.6.0
-	github.com/stretchr/testify v1.4.0
+	github.com/sirupsen/logrus v1.9.0
+	github.com/stretchr/testify v1.7.0
 	github.com/ulikunitz/xz v0.5.10
-	golang.org/x/sys v0.0.0-20200509044756-6aff5f38e54f
+	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
 	gonum.org/v1/gonum v0.6.2
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
